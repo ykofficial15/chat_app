@@ -36,16 +36,9 @@ Use the following account to quickly test the app:
 
 ## Screenshots
 
-### User Signup / Login
 ![Signup/Login](1.png)
-
-### User List
 ![User List](2.png)
-
-### Chat Screen
 ![Chat Screen](3.png)
-
-### Real-Time Messaging
 ![Messaging](4.png)
 
 ---
