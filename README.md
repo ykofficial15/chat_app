@@ -36,10 +36,10 @@ Use the following account to quickly test the app:
 
 ## Screenshots
 
-![Signup/Login](1.png)
-![User List](2.png)
-![Chat Screen](3.png)
-![Messaging](4.png)
+![Signup/Login](assets/1.png)
+![User List](assets/2.png)
+![Chat Screen](assets/3.png)
+![Messaging](assets/4.png)
 
 ---
 
